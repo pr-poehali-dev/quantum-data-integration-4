@@ -75,6 +75,16 @@ export default function HeroSection() {
                 <p className="text-xl font-light text-white/80 md:text-2xl">
                   Маркетинг и дизайн карточек для маркетплейсов
                 </p>
+                <div className="pt-2">
+                  <a
+                    href="https://t.me/maxlev223"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-block bg-white text-black px-8 py-3 text-base font-medium hover:bg-white/90 transition-colors"
+                  >
+                    Написать мне
+                  </a>
+                </div>
                 <div className="flex gap-6 pt-4">
                   <a
                     href="https://t.me/"
